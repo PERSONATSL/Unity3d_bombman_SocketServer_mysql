@@ -1,0 +1,8 @@
+c:\users\admin\source\repos\Server\Server\bin\Debug\Server.exe
+c:\users\admin\source\repos\Server\Server\bin\Debug\Server.pdb
+c:\users\admin\source\repos\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Server\Server\obj\Debug\Server.exe
+c:\users\admin\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\admin\source\repos\Server\Server\bin\Debug\MySql.Data.DLL
+C:\Users\admin\source\repos\Server\Server\obj\Debug\Server.csproj.CopyComplete
